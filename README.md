@@ -4,7 +4,7 @@ Welcome to our repository, here we are creating an exciting game using python. T
 Team 3
 =============================
 Team Member(Role) :
-1 Jatin Dhull (Manager)
-2 Ashish (Developer)
-3 Navjot Singh (Tester)
+1 MR. Jatin Dhull (Manager)
+2 MR. Ashish (Developer)
+3 MR. Navjot Singh (Tester)
 =============================
